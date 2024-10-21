@@ -1,0 +1,12 @@
+# reminders to config on mikrotik 
+
+anti stow / anti sleep
+block torrent
+block porn
+block client to access starlink
+anti-hack
+bandwidth management
+block ddos-attack
+gaming priority
+hide isp ip
+adguard dns
